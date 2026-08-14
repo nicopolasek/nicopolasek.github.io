@@ -107,13 +107,6 @@ h1 {
   letter-spacing: 0;
 }
 
-.role {
-  margin-bottom: 28px;
-  color: var(--muted);
-  font-size: 18px;
-  line-height: 1.45;
-}
-
 .lede {
   color: var(--text);
   font-size: 17px;
