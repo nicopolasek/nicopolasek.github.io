@@ -137,6 +137,11 @@ h3 {
   line-height: 1.35;
 }
 
+.subsection-title {
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--line);
+}
+
 .paper-title {
   margin-bottom: 16px;
   color: var(--text);
@@ -173,6 +178,22 @@ h3 {
 }
 
 .coauthors {
+  color: var(--muted);
+  font-size: 16px;
+  line-height: 1.35;
+}
+
+.course-item {
+  margin-top: 22px;
+}
+
+.course-title {
+  margin-bottom: 0;
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+.course-meta {
   color: var(--muted);
   font-size: 16px;
   line-height: 1.35;
